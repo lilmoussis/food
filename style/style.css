@@ -1,0 +1,47 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 14 nov. 2021, 15:09:04
+    Author     : Mris
+*/
+
+.rounded-4 {
+    border-radius: 10px;
+}
+
+.rounded-5 {
+    border-radius: 15px;
+}
+
+.rounded-4 {
+    border-radius: 20px;
+}
+
+.title {
+    font-family: georgia;
+    color: #06357a;
+    font-size: 1.4em;
+}
+
+.bg-black-fluid {
+    background-color: #3f3f3f;
+}
+
+.bg-black {
+    background-color: #151515;
+}
+
+
+
+.imgprix{
+    display: flex;  
+    flex-direction: column;
+}
+.img{
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    
+}
